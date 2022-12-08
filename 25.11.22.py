@@ -126,15 +126,7 @@ import math
 #     return s
 # print(Fact(int(input())))
 
-35 # def Fact2(n):
-#     s = 1
-#     d = 1
-#     for i in range(1,n+1):
-#         s = s * i
-#     for k in range(1,s+1):
-#         d = d * k
-#     return d
-# print(Fact2(int(input())))
+
 
 
 
