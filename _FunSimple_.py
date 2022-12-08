@@ -1,4 +1,5 @@
 import math
+
 1 # def PowerA3(a,b,c,d,e):
 #     return a**3,b**3,c**3,d**3,e**3
 # print(PowerA3(2,3,4,5,6))
@@ -142,6 +143,17 @@ import math
 
 
 
+
+37 # def Power1(a,b):
+#     return pow(a,b)
+# print(Power1(float(input()),int(input())))
+
+38 # def Power2(a,n):
+#     s = 1
+#     for i in range(1,n+1):
+#         s *= a
+#     return s
+# print(Power2(int(input()),int(input())))
 
 
 
