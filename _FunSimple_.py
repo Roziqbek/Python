@@ -161,12 +161,19 @@ import math
 
 
 
+40 # def Exp1(x,n):
+#     s = 0
+#     for i in range(n+1):
+#         s += x**i/math.factorial(i)
+#     return s
+# print(Exp1(int(input()),int(input())))
 
-
-
-
-
-
+41 # def sin1(x,n):
+#     s = 0
+#     for i in range(n+1):
+#         s += (-1)**i*x**(2*i+1)/(math.factorial(2*i+1))
+#     return s
+# print(sin1(int(input()),int(input())))
 
 
 
