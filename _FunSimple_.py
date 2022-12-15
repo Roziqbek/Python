@@ -108,9 +108,9 @@ import math
 
 
 
-
-
-
+31 # def IsPalindrom(n):
+#     return n[0::]==n[::-1]
+# print(IsPalindrom(input()))
 
 32 # def DegToRad(d):
 #     return d*math.pi/180
