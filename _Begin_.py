@@ -152,5 +152,54 @@ import math
 #   return a,b,c
 # print(QiymatAlmashtirishABC(float(input()),float(input()),float(input())))
 
+25 # def Function(x):
+#   y = 3*x**6-6*x**2-7
+#   return y
+# print(Function(float(input())))
 
+26 # def Function(x):
+#   y = 4*(x-3)**6-7*(x-3)**3+2
+#   return y
+# print(Function(float(input())))
 
+27 # def AAA(a):
+#   return a**2,a**4,a**8
+# print(AAA(float(input())))
+
+28 # def AAA(a):
+#   return a**2,a**3,a**5,a**10,a**15
+# print(AAA(float(input())))
+
+29 # def Radian(a):
+#   radian = a*math.pi/180
+#   return radian
+# print(Radius(float(input())))
+
+30 # def Radius(a):
+#   radius = a*180/math.pi
+#   return radius
+# print(Radius(float(input())))
+
+31 # def Tempetature(t):
+#   return (t-32)*5/9
+# print(Tempetature(float(input())))
+
+32 # def Farengus(f):
+#   return 9*f/5+32
+# print(Farengus(float(input())))
+
+33 # def Konfet(x,a,y):
+#   return a/x,a/x*y
+# print(Konfet(float(input()),float(input()),float(input())))
+
+34 # def Shokolad(x,a,y,b):
+#     shokolad = a/x
+#     konfet = b*y
+#     return shokolad-konfet
+# print(Shokolad(float(input()),float(input()),float(input()),float(input())))
+
+def Qayiq(v1,v2,t1,t2):
+  if t1(v1+v2)==abs(t2(v1-v2)):
+    s = v1+v2
+    return s
+print(Qayiq(float(input()),float(input()),float(input()),float(input())))
