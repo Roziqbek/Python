@@ -66,6 +66,10 @@ import math
 #   return c,P
 # print(Turtburchak(int(input()),int(input())))
 
-
-
-
+13 # def Aylana(r1,r2):
+#   if r1>r2:
+#     S1 = math.pi*(r1**2)
+#     S2 = math.pi*(r2**2)
+#     S3 = math.pi*(r1-r2)
+#     return S1,S2,S3
+# print(Aylana(int(input()),int(input())))
