@@ -198,8 +198,60 @@ import math
 #     return shokolad-konfet
 # print(Shokolad(float(input()),float(input()),float(input()),float(input())))
 
-def Qayiq(v1,v2,t1,t2):
-  if t1(v1+v2)==abs(t2(v1-v2)):
-    s = v1+v2
-    return s
-print(Qayiq(float(input()),float(input()),float(input()),float(input())))
+35 # def Qayiq():
+#   v1 = int(input())
+#   v2 = int(input())
+#   t1 = int(input())
+#   t2 = int(input())
+#   if abs(t1*(v1+v2))==abs(t2*(v1-v2)):
+#     s = t1*(v1+v2)
+#     return s
+# print(Qayiq())
+
+36 # def Avto():
+#   v1 = int(input())
+#   v2 = int(input())
+#   t = int(input())
+#   s = int(input())
+#   S = (v1+v2)*t+s
+#   return S
+# print(Avto())
+
+37 # def Avto():
+#   v1 = int(input())
+#   v2 = int(input())
+#   s = int(input())
+#   t = int(input())
+#   S = (v1+v2)*t
+#   if s>S:
+#     return s-S
+#   else:
+#     return S-s
+# print(Avto())
+
+38 # def Tenglama():
+#   a = int(input())
+#   b = int(input())
+#   x = -b/a
+#   return x
+# print(Tenglama())
+
+39 # def KvadratTenglama():
+#   a = int(input())
+#   b = int(input())
+#   c = int(input())
+#   D = b**2-4*a*c
+#   if D>=0:
+#     x1 = (-b+math.sqrt(D))/(2*a)
+#     x2 = (-b-math.sqrt(D))/(2*a)
+#     return x1, x2
+# print(KvadratTenglama())
+
+# def ChiziqliTenglama():
+#   a1 = int(input())
+#   b1 = int(input())
+#   c1 = int(input())
+#   a2 = int(input())
+#   b2 = int(input())
+#   c2 = int(input())
+  
