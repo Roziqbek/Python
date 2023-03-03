@@ -2,55 +2,55 @@ import math
 
 1 # def new_function():
 #   a = int(input())
-#   return (a>0)
+#   return a>0
 # print(new_function())
 
 2 # def new_function():
 #   a = int(input())
-#   return (a%2!=0)
+#   return a%2!=0
 # print(new_function())
 
 3 # def new_function():
 #   a = int(input())
-#   return (a%2==0)
+#   return a%2==0
 # print(new_function())
 
 4 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return (a>2 and b<=3)
+#   return a>2 and b<=3
 # print(new_function())
 
 5 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return (a>=0 or b<-2)
+#   return a>=0 or b<-2
 # print(new_function())
 
 6 # def new_function():
 #   a = int(input())
 #   b = int(input())
 #   c = int(input())
-#   return (a<=b<=c)
+#   return a<=b<=c
 # print(new_function())
 
 7 # def new_function():
 #   a = int(input())
 #   b = int(input())
 #   c = int(input())
-#   return (a<b<c)
+#   return a<b<c
 # print(new_function())
 
 8 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return (a%2!=0 and b%2!=0)
+#   return a%2!=0 and b%2!=0
 # print(new_function())
 
 9 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return (a%2!=0 or b%2!=0)
+#   return a%2!=0 or b%2!=0
 # print(new_function())
 
 10 # def new_function():
@@ -68,30 +68,30 @@ import math
 12 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return (a>0 and b>0)
+#   return a>0 and b>0
 # print(new_function())
 
 13 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return (a>0 or b>0)
+#   return a>0 or b>0
 # print(new_function())
 
 14 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return ((a>0 and b<0) or (a<0 and b>0))
+#   return (a>0 and b<0) or (a<0 and b>0)
 # print(new_function())
 
 15 # def new_function():
 #   a = int(input())
 #   b = int(input())
-#   return (a>0 and b>0)
+#   return a>0 and b>0
 # print(new_function())
 
 16 # def new_function():
 #   a = int(input())
-#   return (a%2==0 and a>=10)
+#   return a%2==0 and a>=10
 # print(new_function())
 
 17 # def new_function():
