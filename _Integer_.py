@@ -132,3 +132,187 @@ import math
 #   return (f"{c//3600}soatu {c%3600//60}minut {c%3600%60}sekunt")
 # print(new_functon())
 
+24 # def new_function():
+#   k = int(input())
+#   if k%7 == 0:
+#     return 'Yakshanba'
+#   elif k%7 == 1:
+#     return 'Dushanba'
+#   elif k%7 == 2:
+#     return 'Seshanba'
+#   elif k%7 == 3:
+#     return 'Chorshanba'
+#   elif k%7 == 4:
+#     return 'Payshanba'
+#   elif k%7 == 5:
+#     return 'Juma'
+#   elif k%7 == 6:
+#     return 'Sahanba'
+# print(new_function())
+
+25 # def new_function():
+#   k = int(input())
+#   if k%7 == 0:
+#     return 'Chorshanba'
+#   elif k%7 == 1:
+#     return 'Payshanba'
+#   elif k%7 == 2:
+#     return 'Juma'
+#   elif k%7 == 3:
+#     return 'Shanba'
+#   elif k%7 == 4:
+#     return 'Yakshanba'
+#   elif k%7 == 5:
+#     return 'Dushanba'
+#   elif k%7 == 6:
+#     return 'Seshanba'
+# print(new_function())
+
+26 # def new_function():
+#   k = int(input())
+#   if k%7 == 0:
+#     return 'Dushanba'
+#   elif k%7 == 1:
+#     return 'Seshanba'
+#   elif k%7 == 2:
+#     return 'Chorshanba'
+#   elif k%7 == 3:
+#     return 'Payshanba'
+#   elif k%7 == 4:
+#     return 'Juma'
+#   elif k%7 == 5:
+#     return 'Shanba'
+#   elif k%7 == 6:
+#     return 'Yakshanba'
+# print(new_function())
+
+27 # def new_function():
+#   k = int(input())
+#   if k%7 == 0:
+#     return 'Shanba'
+#   elif k%7 == 1:
+#     return 'Yakshanba'
+#   elif k%7 == 2:
+#     return 'Dushanba'
+#   elif k%7 == 3:
+#     return 'Seshanba'
+#   elif k%7 == 4:
+#     return 'Chorshanba'
+#   elif k%7 == 5:
+#     return 'Payshanba'
+#   elif k%7 == 6:
+#     return 'Juma'
+# print(new_function())
+
+28 # def new_function():
+#   n = str(input())
+#   k = int(input())
+#   if len(n)>0:
+#     if n == 'Dushanba':
+#       if k%7 == 1:
+#         return 'Dushanba'
+#       elif k%7 == 2:
+#         return 'Seshanba'
+#       elif k%7 == 3:
+#         return 'Chorshanba'
+#       elif k%7 == 4:
+#         return 'Payshanba'
+#       elif k%7 == 5:
+#         return 'Juma'
+#       elif k%7 == 6:
+#         return 'Shanba'
+#       elif k%7 == 0:
+#         return 'Yakshanba'
+#     elif n == 'Seshanba':
+#       if k%7 == 1:
+#         return 'Seshanba'
+#       elif k%7 == 2:
+#         return 'Chorshanba'
+#       elif k%7 == 3:
+#         return 'Payshanba'
+#       elif k%7 == 4:
+#         return 'Juma'
+#       elif k%7 == 5:
+#         return 'Shanba'
+#       elif k%7 == 6:
+#         return 'Yakshanba'
+#       elif k%7 == 0:
+#         return 'Dushanba'
+#     elif n == 'Chorshanba':
+#       if k%7 == 1:
+#         return 'Chorshanba'
+#       elif k%7 == 2:
+#         return 'Payshanba'
+#       elif k%7 == 3:
+#         return 'Juma'
+#       elif k%7 == 4:
+#         return 'Shanba'
+#       elif k%7 == 5:
+#         return 'Yakshanba'
+#       elif k%7 == 6:
+#         return 'Dushanba'
+#       elif k%7 == 0:
+#         return 'Seshanba'
+#     elif n == 'Payshanba':
+#       if k%7 == 1:
+#         return 'Payshanba'
+#       elif k%7 == 2:
+#         return 'Juma'
+#       elif k%7 == 3:
+#         return 'Shanba'
+#       elif k%7 == 4:
+#         return 'Yakshanba'
+#       elif k%7 == 5:
+#         return 'Dushanba'
+#       elif k%7 == 6:
+#         return 'Seshanba'
+#       elif k%7 == 0:
+#         return 'Chorshanba'
+#     elif n == 'Juma':
+#       if k%7 == 1:
+#         return 'Juma'
+#       elif k%7 == 2:
+#         return 'Shanba'
+#       elif k%7 == 3:
+#         return 'Yakshanba'
+#       elif k%7 == 4:
+#         return 'Dushanba'
+#       elif k%7 == 5:
+#         return 'Seshanba'
+#       elif k%7 == 6:
+#         return 'Chorshanba'
+#       elif k%7 == 0:
+#         return 'Payshanba'
+#     elif n == 'Shanba':
+#       if k%7 == 1:
+#         return 'Shanba'
+#       elif k%7 == 2:
+#         return 'Yakshanba'
+#       elif k%7 == 3:
+#         return 'Dushanba'
+#       elif k%7 == 4:
+#         return 'Seshanba'
+#       elif k%7 == 5:
+#         return 'Chorshanba'
+#       elif k%7 == 6:
+#         return 'Payshanba'
+#       elif k%7 == 0:
+#         return 'Juma'
+#     elif n == 'Yakshanba':
+#       if k%7 == 1:
+#         return 'Yakshanba'
+#       elif k%7 == 2:
+#         return 'Dushanba'
+#       elif k%7 == 3:
+#         return 'Seshanba'
+#       elif k%7 == 4:
+#         return 'Chorshanba'
+#       elif k%7 == 5:
+#         return 'Payshanba'
+#       elif k%7 == 6:
+#         return 'Juma'
+#       elif k%7 == 0:
+#         return 'Shanba'
+# print(new_function())
+
+
