@@ -314,5 +314,3 @@ import math
 #       elif k%7 == 0:
 #         return 'Shanba'
 # print(new_function())
-
-
