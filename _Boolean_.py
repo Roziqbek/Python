@@ -204,7 +204,7 @@ import math
 34 # def new_function():
 #   x = int(input())
 #   y = int(input())
-#   return (x,yand (x+y)%2!=0)
+#   return (x,y and (x+y)%2!=0)
 # print(new_function())
 
 35 # def new_function():
@@ -212,7 +212,7 @@ import math
 #   y = int(input())
 #   x1 = int(input())
 #   y1 = int(input())
-#   return (((x+y)%2!=0 and (x1+y1)%2!=0) or ((x+y)%2==0 and (x1+y1)%2==0))
+#   return ((x+y)%2!=0 and (x1+y1)%2!=0) or ((x+y)%2==0 and (x1+y1)%2==0)
 # print(new_function())
 
 36 # def new_function():
@@ -220,7 +220,7 @@ import math
 #   y1 = int(input())
 #   x2 = int(input())
 #   y2 = int(input())
-#   return (((x1+y1)%2==0 and (x2+y2)%2==0) or ((x1+y1)%2!=0 and (x2+y2)%2!=0))
+#   return x1==x2 or y1==y2
 # print(new_function())
 
 37 # def new_function():
