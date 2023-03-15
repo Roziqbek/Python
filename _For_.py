@@ -1,5 +1,68 @@
 import math
 
+
+13 # n = int(input())
+# s = 0
+# for i in range(1,n+1):
+#     s = (s + i/10)
+# print(s)
+
+14 # n = int(input())
+# s = 0
+# for i in range(1,n+1):
+#     s = s + (2*i-1)
+# print(s)
+
+15 # a = int(input())
+# n = int(input())
+# s = 1
+# for i in range(n):
+#     s = s * a
+# print(s)
+
+16 # a = int(input("Sonni kiriting: "))
+# n = int(input("Darajasini kiriting: "))
+# for i in range(1,n+1):
+#     print(pow(a,i))
+
+17 # a = int(input("Sonni kiriting: "))
+# n = int(input("Darajaning kiriting: "))
+# s = 0
+# for i in range(n+1):
+#     b = a**i
+#     s = s + b
+# print(s)
+
+18 # a = int(input())
+# n = int(input())
+# s = 0
+# d = 0
+# for i in range(n+1):
+#     b = (-a)**i
+#     s += b
+# print(s)
+
+19 # n = int(input())
+# s = 1
+# for i in range(1,n+1):
+#     s *= i
+# print(s)
+
+20 # n = int(input())
+# s = 0
+# for i in range(1,n+1):
+#     s = s + math.factorial(i)
+# print(s)
+
+23 # n = int(input())
+# x = int(input())
+# b = 0
+# s = 0
+# for i in range(n+1):
+#     b = (-1)**i*(x)**(2*i+1)/(math.factorial(2*i+1))
+#     s += b
+# print(s)
+
 29 # a = int(input())
 # b = int(input())
 # for i in range(a,b+1):
